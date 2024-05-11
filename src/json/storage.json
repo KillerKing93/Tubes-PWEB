@@ -1,0 +1,319 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Hotel Majapahit",
+      "image": "/img/hotelMajapahit.jpg",
+      "description": "Hotel bersejarah di tengah kota",
+      "established": 1990,
+      "location": "Surabaya",
+      "rooms": [
+        {
+          "roomType": "Single",
+          "available": 20,
+          "capacity": 1
+        },
+        {
+          "roomType": "Double",
+          "available": 15,
+          "capacity": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Hotel Indonesia",
+      "image": "/img/hotelIndonesia.jpg",
+      "description": "Hotel mewah di pusat kota Jakarta",
+      "established": 1962,
+      "location": "Jakarta",
+      "rooms": [
+        {
+          "roomType": "Deluxe",
+          "available": 5,
+          "capacity": 3
+        },
+        {
+          "roomType": "Suite",
+          "available": 10,
+          "capacity": 4
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Hotel Bali Paradise",
+      "image": "/img/hotelBaliParadise.jpg",
+      "description": "Nikmati keindahan pantai dari kamar Anda",
+      "established": 2005,
+      "location": "Bali",
+      "rooms": [
+        {
+          "roomType": "Garden View",
+          "available": 12,
+          "capacity": 2
+        },
+        {
+          "roomType": "Beach Front",
+          "available": 8,
+          "capacity": 2
+        },
+        {
+          "roomType": "Family Suite",
+          "available": 5,
+          "capacity": 5
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Hotel Puncak Panorama",
+      "image": "/img/hotelPuncakPanorama.webp",
+      "description": "Hotel dengan pemandangan pegunungan yang memukau",
+      "established": 1998,
+      "location": "Bandung",
+      "rooms": [
+        {
+          "roomType": "Standard",
+          "available": 20,
+          "capacity": 2
+        },
+        {
+          "roomType": "Panorama Suite",
+          "available": 10,
+          "capacity": 4
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Hotel Royal Sumatra",
+      "image": "/img/hotelRoyalSumatera.jpg",
+      "description": "Kenyamanan dan keramahan Sumatra dalam satu tempat",
+      "established": 1985,
+      "location": "Medan",
+      "rooms": [
+        {
+          "roomType": "Standard",
+          "available": 30,
+          "capacity": 2
+        },
+        {
+          "roomType": "Deluxe",
+          "available": 20,
+          "capacity": 3
+        },
+        {
+          "roomType": "Royal Suite",
+          "available": 5,
+          "capacity": 6
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Hotel Metropolitan Yogyakarta",
+      "image": "/img/hotelMetropolitanYogyakarta.webp",
+      "description": "Rasakan keanggunan dan sejarah Yogyakarta dengan menginap bersama kami",
+      "established": 1973,
+      "location": "Yogyakarta",
+      "rooms": [
+        {
+          "roomType": "Economy",
+          "available": 25,
+          "capacity": 2
+        },
+        {
+          "roomType": "Executive",
+          "available": 15,
+          "capacity": 4
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Lombok Beachfront Resort",
+      "image": "/img/Lombok Beachfront Resort.jpg",
+      "description": "Sempurnakan liburan Anda dengan pemandangan laut yang tidak terhalang",
+      "established": 2010,
+      "location": "Lombok",
+      "rooms": [
+        {
+          "roomType": "Seaside",
+          "available": 20,
+          "capacity": 2
+        },
+        {
+          "roomType": "Villa",
+          "available": 10,
+          "capacity": 5
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Hotel Khatulistiwa Pontianak",
+      "image": "/img/hotelKhatulistiwaPontianak.jpeg",
+      "description": "Nikmati kemewahan di khatulistiwa dengan layanan terbaik kami",
+      "established": 1989,
+      "location": "Pontianak",
+      "rooms": [
+        {
+          "roomType": "Standard",
+          "available": 40,
+          "capacity": 2
+        },
+        {
+          "roomType": "Presidential Suite",
+          "available": 5,
+          "capacity": 6
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Hotel Celebes Makassar",
+      "image": "/img/hotelCelebesMakassar.webp",
+      "description": "Tempat yang sempurna untuk menjelajahi budaya dan kuliner Sulawesi",
+      "established": 1994,
+      "location": "Makassar",
+      "rooms": [
+        {
+          "roomType": "Single",
+          "available": 30,
+          "capacity": 1
+        },
+        {
+          "roomType": "Family",
+          "available": 20,
+          "capacity": 4
+        },
+        {
+          "roomType": "Executive Suite",
+          "available": 10,
+          "capacity": 4
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "4a53",
+      "orderId": 743200,
+      "customerData": {
+        "name": "Rae Kennedy",
+        "email": "xehuwe@mailinator.com",
+        "ktp": "Numquam tempora maio"
+      },
+      "hotelId": "3",
+      "roomCount": {
+        "Deluxe": 1,
+        "Suite": 2,
+        "Garden View": 1,
+        "Beach Front": 2,
+        "Family Suite": 1
+      },
+      "userId": "9cf9"
+    },
+    {
+      "id": "ad6c",
+      "orderId": 55323,
+      "customerData": {
+        "name": "Jaime Morrison",
+        "email": "lasitilaqa@mailinator.com",
+        "ktp": "Culpa reiciendis tem"
+      },
+      "hotelId": "3",
+      "roomCount": {
+        "Garden View": 1,
+        "Beach Front": 2,
+        "Family Suite": 3
+      },
+      "userId": "9cf9"
+    },
+    {
+      "id": "9301",
+      "orderId": 560141,
+      "customerData": {
+        "name": "Regan Rasmussen",
+        "email": "nida@mailinator.com",
+        "ktp": "849"
+      },
+      "hotelId": "2",
+      "roomCount": {
+        "Deluxe": 1,
+        "Suite": 2
+      },
+      "userId": "9cf9"
+    },
+    {
+      "id": "15f0",
+      "orderId": 900725,
+      "customerData": {
+        "name": "Oprah Brady",
+        "email": "qybicylapy@mailinator.com",
+        "ktp": "910"
+      },
+      "hotelId": "3",
+      "roomCount": {
+        "Garden View": 1,
+        "Family Suite": 1,
+        "Beach Front": 0
+      },
+      "userId": "9cf9"
+    },
+    {
+      "id": "8617",
+      "orderId": 873008,
+      "customerData": {
+        "name": "Kelsie Blackburn",
+        "email": "cywi@mailinator.com",
+        "ktp": "788"
+      },
+      "hotelId": "2",
+      "roomCount": {
+        "Deluxe": 1,
+        "Suite": 2
+      },
+      "userId": "9cf9"
+    }
+  ],
+  "users": [
+    {
+      "id": "9cf9",
+      "username": "kyjil",
+      "fullname": "Dana Snow",
+      "email": "woce@mailinator.com",
+      "phone": "+1 (816) 281-5615",
+      "ktp": "Iusto in exercitatio",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "1559",
+      "username": "lafuzod",
+      "fullname": "Clementine Cherry",
+      "email": "rotugu@mailinator.com",
+      "phone": "+1 (685) 282-9403",
+      "ktp": "Minus ea debitis qua",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "397c",
+      "username": "zidyn",
+      "fullname": "Caleb Watson",
+      "email": "qywanito@mailinator.com",
+      "phone": "+1 (793) 956-6445",
+      "ktp": "Perferendis id verit",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "07f5",
+      "username": "jyxob",
+      "fullname": "Leilani Best",
+      "email": "gimupynyde@mailinator.com",
+      "phone": "+1 (208) 249-3301",
+      "ktp": "Sit aperiam irure te",
+      "password": "Pa$$w0rd!"
+    }
+  ]
+}
