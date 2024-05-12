@@ -1,7 +1,7 @@
 # HOTELKU
 Hotelku Merupakan Sebuah Aplikasi Web Berbasis React.JS yang berfungsi untuk memenuhi kebutuhan pemesanan kamar hotel pengguna.
 
-# Script
+# SCRIPT
 < PASTIKAN PERANGKAT TERHUBUNG KE INTERNET! >
 
 Untuk menjalankan situs web Hotelku, cukup jalankan startServer.bat yang ada di root folder.
