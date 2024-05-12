@@ -3,6 +3,7 @@ Hotelku Merupakan Sebuah Aplikasi Web Berbasis React.JS yang berfungsi untuk mem
 
 # Script
 < PASTIKAN PERANGKAT TERHUBUNG KE INTERNET! >
+
 Untuk menjalankan situs web Hotelku, cukup jalankan startServer.bat yang ada di root folder.
 startServer.bat akan secara otomatis mendownload dan menginstall library yang diperlukan oleh React.js dan kemudian,
 startServer.bat akan menjalankan React.js dan json-server Hotelku.
