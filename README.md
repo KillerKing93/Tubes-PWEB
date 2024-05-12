@@ -1,3 +1,19 @@
+# HOTELKU
+Hotelku Merupakan Sebuah Aplikasi Web Berbasis React.JS yang berfungsi untuk memenuhi kebutuhan pemesanan kamar hotel pengguna.
+
+# Script
+< PASTIKAN PERANGKAT TERHUBUNG KE INTERNET! >
+Untuk menjalankan situs web Hotelku, cukup jalankan startServer.bat yang ada di root folder.
+startServer.bat akan secara otomatis mendownload dan menginstall library yang diperlukan oleh React.js dan kemudian,
+startServer.bat akan menjalankan React.js dan json-server Hotelku.
+
+# Anggota Kelompok
+1.	Arief Setiawan 		    (G1A022055)
+2.	Daffa Fadhil Apriza 	(G1A022067)
+3.	Alif Nurhidayat 		  (G1A022073)
+4.	Mezi 		  	          (G1A022077)
+
+# DOKUMENTASI REACT APP DARI FACEBOOK.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
